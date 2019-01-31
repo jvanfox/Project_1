@@ -1,0 +1,56 @@
+img {
+    height: 200px;
+    width: auto;
+}
+
+#team-div {
+    color: white;
+}
+
+
+h1 {
+    font-family: 'Righteous', cursive;
+    color: orange;
+    text-shadow: 2px 2px 8px black;
+}
+
+h4 {
+    text-shadow: 2px 2px 8px black;
+}
+
+
+
+body {
+    background-image: url(../images/dhDSF4g.jpg);
+}
+
+
+
+.container {
+    color: white;
+    opacity:.9;
+}
+
+.card {
+    padding: 1px;
+    margin: 1px;
+
+}
+
+.card:hover {
+    background-color: lightgray;
+}
+
+button {
+    color: white;
+    margin: 1pt;
+    background-color: black;
+    border-radius: 20px;
+    opacity: .9;
+    
+}
+
+button:hover {
+    background-color: orange;
+    color: blue;
+}
